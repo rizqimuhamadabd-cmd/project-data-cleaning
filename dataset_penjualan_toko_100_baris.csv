@@ -1,0 +1,101 @@
+﻿id_transaksi,tanggal,nama_produk,kategori,jumlah,harga_satuan,kota_pelanggan,metode_pembayaran
+TRX001,2026-01-04,Es Cokelat,Minuman,2,17000,Bekasi,QRIS
+TRX002,2026-01-14,Roti Cokelat,Makanan,3,10000,Tangerang,Tunai
+TRX003,2026-01-05,Jus Alpukat,Minuman,7,20000,Jakarta,Tunai
+TRX004,2026-03-06, roti cokelat ,Makanan,4,10000,Tangerang,Tunai
+TRX005,2026-03-25,Donat,Snack,4,8000,Tangerang,Debit
+TRX005,2026-03-25,Donat,Snack,4,8000,Tangerang,Debit
+TRX007,2026-02-13,Air Mineral,Minuman,7,5000,Bekasi,
+TRX008,2026-01-14,Roti Cokelat,Makanan,6,10000,Jakarta,Debit
+TRX009,2026-02-14,Teh Lemon,minuman,6,12000,Tangerang,Transfer
+TRX010,2026-03-10,Kopi Susu,Minuman,8,18000,Jakarta,Debit
+TRX011,2026-03-22,Teh Lemon,Minuman,5,12000,Tangerang,Transfer
+TRX012,2026-01-09,Jus Alpukat,Minuman,,20000,Jakarta,QRIS
+TRX013,30/01/2026,Roti Keju,Makanan,2,12000,Jakarta,Debit
+TRX014,2026-03-23,Roti Keju,Makanan,8,12000,Bekasi,QRIS
+TRX015,2026-01-27,Mie Goreng,Makanan,6,,Bekasi,Tunai
+TRX016,2026-03-10,Jus Alpukat,Minuman,3,20000,Depok,QRIS
+TRX017,2026-02-04,Kentang Goreng,Snack,7,14000,Tangerang,QRIS
+TRX018,2026-01-08, es cokelat ,Minuman,6,17000,Depok,Tunai
+TRX019,2026-02-04,Mie Goreng,Makanan,7,16000,Jakarta,QRIS
+TRX020,2026-01-28,Jus Alpukat,Minuman,6,Rp 18.000,Bogor,Debit
+TRX021,2026-01-19,Es Cokelat,Minuman,8,17000,Bekasi,QRIS
+TRX022,2026-03-16,Roti Cokelat,makanan,5,10000,Bogor,Debit
+TRX023,2026-01-18,Mie Goreng,Makanan,4,16000,Tangerang,Debit
+TRX023,2026-01-18,Mie Goreng,Makanan,4,16000,Tangerang,Debit
+TRX025,2026-03-18,Es Cokelat,Minuman,7,17000,,Debit
+TRX026,2026-03-09,Nasi Ayam,Makanan,8,25000,Bekasi,Tunai
+TRX027,2026-03-29,Es Cokelat,Minuman,2,17000,Tangerang,Transfer
+TRX028,2026-01-15,Es Cokelat,Minuman,6,17000,Bekasi,Debit
+TRX029,2026-01-01, air mineral ,Minuman,8,5000,Bekasi,QRIS
+TRX030,2026-03-22,Donat,Snack,2,8000,Bekasi,QRIS
+TRX031,2026-01-21,Air Mineral,Minuman,6,5000,Tangerang,Tunai
+TRX032,2026-03-04,Jus Alpukat,Minuman,6,20000,Jakarta,Tunai
+TRX033,2026-01-31,Mie Goreng,Makanan,5,16000,Jakarta,QRIS
+TRX034,2026-01-11,Jus Alpukat,Minuman,2,20000,Bogor,Tunai
+TRX035,2026-01-17,Donat,Snack,3,8000,Bogor,
+TRX036,2026-01-28,Roti Keju,Makanan,7,12000,Tangerang,QRIS
+TRX037,2026-02-21,Pisang Goreng,Snack,5,10000,Bekasi,Debit
+TRX038,16-01-2026,Donat,Snack,8,8000,Depok,QRIS
+TRX039,2026-01-03,Teh Lemon,Minuman,6,12000,Tangerang,QRIS
+TRX040,2026-01-01,Jus Alpukat,Minuman,,20000,Jakarta,Tunai
+TRX041,2026-01-05,Roti Cokelat,Makanan,2,10000,Bekasi,Tunai
+TRX042,2026-02-05,Donat,Snack,4,8000,Bogor,QRIS
+TRX043,2026-03-15,Donat,Snack,3,8000,Tangerang,Debit
+TRX044,2026-02-22,Roti Cokelat,Makanan,8,,Depok,Tunai
+TRX045,2026-02-15,Teh Lemon,Minuman,7,12000,Bogor,Debit
+TRX046,2026-03-28, kentang goreng ,Snack,1,14000,Jakarta,Tunai
+TRX047,2026-01-14,Nasi Ayam,Makanan,6,25000,Depok,QRIS
+TRX048,2026-01-18,Roti Cokelat,Makanan,8,10000,Bogor,QRIS
+TRX049,2026-02-01,Roti Keju,Makanan,8,Rp 12.000,Jakarta,Debit
+TRX050,2026-01-07,Donat,Snack,2,8000,Tangerang,Tunai
+TRX051,2026-01-22,Teh Lemon,Minuman,4,12000,Bogor,Debit
+TRX052,2026-02-21,Kentang Goreng,Snack,4,14000,Jakarta,QRIS
+TRX053,2026-02-19,Nasi Ayam,makanan,1,25000,Bekasi,Debit
+TRX054,2026-03-31,Roti Keju,Makanan,7,12000,Tangerang,Debit
+TRX055,2026-02-07,Air Mineral,Minuman,4,5000,Depok,Tunai
+TRX056,2026-02-10,Jus Alpukat,Minuman,1,20000,Jakarta,Tunai
+TRX057,2026-03-06,Jus Alpukat,Minuman,8,20000,Tangerang,QRIS
+TRX058,2026-01-24,Kopi Susu,Minuman,2,18000,Jakarta,Tunai
+TRX058,2026-01-24,Kopi Susu,Minuman,2,18000,Jakarta,Tunai
+TRX060,2026-03-21,Jus Alpukat,Minuman,1,20000,,Debit
+TRX061,2026-02-03,Es Cokelat,Minuman,6,17000,Depok,Transfer
+TRX062,2026-02-20,Roti Cokelat,Makanan,5,10000,Depok,Transfer
+TRX063,2026-01-10,Kentang Goreng,Snack,6,14000,Jakarta,Debit
+TRX064,2026-01-10,Jus Alpukat,Minuman,2,20000,Tangerang,QRIS
+TRX065,17/01/2026,Donat,Snack,5,8000,Bekasi,Tunai
+TRX066,2026-02-06,Roti Cokelat,Makanan,6,10000,Depok,Debit
+TRX067,2026-03-20,Donat,Snack,5,8000,Tangerang,Tunai
+TRX068,2026-03-26, es cokelat ,Minuman,5,17000,Jakarta,QRIS
+TRX069,2026-01-14,Roti Keju,Makanan,2,12000,Tangerang,QRIS
+TRX070,2026-03-19,Roti Keju,Makanan,5,12000,Depok,Transfer
+TRX071,2026-03-06,Roti Cokelat,Makanan,5,10000,Bogor,
+TRX072,2026-03-23,Kopi Susu,Minuman,2,18000,Bogor,Transfer
+TRX073,2026-02-12,Kopi Susu,Minuman,1,18000,Depok,Transfer
+TRX074,2026-03-12,Air Mineral,Minuman,8,5000,Bogor,Tunai
+TRX075,2026-03-30,Teh Lemon,Minuman,2,12000,Depok,Tunai
+TRX076,2026-02-25,Mie Goreng,Makanan,3,16000,Depok,Tunai
+TRX077,2026-01-06,Roti Keju,makanan,6,12000,Bekasi,QRIS
+TRX078,2026-03-27,Es Cokelat,Minuman,4,17000,Jakarta,Transfer
+TRX079,2026-03-21,Donat,Snack,7,8000,Depok,QRIS
+TRX080,2026-02-22,Air Mineral,Minuman,3,5000,Jakarta,QRIS
+TRX081,2026-02-22,Pisang Goreng,Snack,6,10000,Depok,Transfer
+TRX082,2026-02-18,Air Mineral,Minuman,,5000,Jakarta,Debit
+TRX083,2026-02-28,Roti Cokelat,Makanan,4,10000,Bekasi,Transfer
+TRX084,2026-01-04,Roti Cokelat,Makanan,4,10000,Depok,Debit
+TRX085,2026-01-09,Mie Goreng,Makanan,5,Rp 25.000,Bekasi,Transfer
+TRX086,2026-03-28,Es Cokelat,Minuman,7,17000,Tangerang,Transfer
+TRX087,2026-02-03,Kopi Susu,Minuman,2,18000,Depok,Transfer
+TRX088,2026-03-18,Kopi Susu,Minuman,2,18000,Bogor,Transfer
+TRX089,2026-02-25,Pisang Goreng,Snack,6,,Tangerang,Tunai
+TRX090,2026-02-02,Nasi Ayam,Makanan,4,25000,Jakarta,Debit
+TRX091,2026-02-16,Kopi Susu,Minuman,4,18000,Bogor,Tunai
+TRX092,2026-03-21,Es Cokelat,Minuman,6,17000,Bekasi,Tunai
+TRX093,2026-03-06,Pisang Goreng,Snack,5,10000,Bekasi,Debit
+TRX094,2026-03-31,Mie Goreng,Makanan,7,16000,,QRIS
+TRX095,2026-03-27,Roti Cokelat,Makanan,7,10000,Bogor,QRIS
+TRX096,2026-02-21,Jus Alpukat,Minuman,5,20000,Tangerang,Tunai
+TRX097,2026-01-27,Roti Keju,Makanan,5,12000,Bogor,Transfer
+TRX098,2026-02-26,Kentang Goreng,Snack,8,14000,Depok,Debit
+TRX099,2026-03-26,Pisang Goreng,Snack,3,10000,Jakarta,Transfer
+TRX100,2026-01-12,Donat,Snack,6,8000,Depok,Transfer
